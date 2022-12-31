@@ -1,0 +1,27 @@
+[
+    {
+        "judul": "Milk Shake",
+        "harga": "22.000,00",
+        "thumbnail": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/milkshake-4.jpg?resize=534%2C401&ssl=1"
+    },
+    {
+        "judul": "Milk Tea",
+        "harga": "10.000,00",
+        "thumbnail": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/milktea-3.jpg?resize=444%2C333&ssl=1"
+    },
+    {
+        "judul": "Fruit Tea",
+        "harga": "12.000,00",
+        "thumbnail": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/fruit-tea-2.jpg?resize=750%2C563&ssl=1"
+    },
+    {
+        "judul": "Smoothie",
+        "harga": "25.000,00",
+        "thumbnail": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/smoothie.jpg?resize=750%2C563&ssl=1"
+    },
+    {
+        "judul": "Fruit Yogurt",
+        "harga": "16.000,00",
+        "thumbnail": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/yogurt-3.jpg?resize=600%2C450&ssl=1"
+    }
+]
